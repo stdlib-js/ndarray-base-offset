@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/ndarray-base-offset",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Return the index offset specifying the underlying buffer index of the first iterated ndarray element.",
   "license": "Apache-2.0",
   "author": {
